@@ -1,5 +1,10 @@
 # Airbnb
 
+This is a prototype of Airbnb where user can post property ads, book property, review the users and hosts, approve the booking request based on the review, place the bid on property.  
+Admin can approves the user's request to become host, checks the various statistics on hosts, properties, area.  
+System displays the properties on map, checks the bidding status of various properties.  
+
+
 ###DIrectory Structure :
 
 ```
